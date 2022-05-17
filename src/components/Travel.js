@@ -1,14 +1,14 @@
 import React from "react"
 
-export default function Travel(props){
+export default function Travel(props) {
     /*console.log(props)*/
-    return(
+    return (
         <div className="card">
-            <img className="card-img" src={props.item.imageUrl} />
+            <img className="card-img" src={props.item.imageUrl} alt="card img" />
             <div className="card-description">
                 <div className="card-description-location">
                     <p>{props.item.location}</p>
-                    <a href={props.item.googleMapsUrl} target="_blank" >View on Google Maps</a> 
+                    <a href={props.item.googleMapsUrl} target="_blank" rel="noreferrer">View on Google Maps</a>
                 </div>
                 <h1 className="card-title">{props.item.title}</h1>
                 <div className="card-description-date">
