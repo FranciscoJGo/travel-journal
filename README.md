@@ -1,1 +1,1 @@
-This is an example of a airbnb landing page using React components, props, array.map, mapping components, key prop I did using the videos of https://scrimba.com/playlist/pqQgrcN from the Learn React course The page is found at: 
+This is an example of a airbnb landing page using React components, props, array.map, mapping components, key prop I did using the videos of https://scrimba.com/playlist/pqQgrcN from the Learn React course The page is found at: https://franciscojgo.github.io/travel-journal/
